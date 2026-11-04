@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolaqq121/static-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zolaqq121/static-server/issues"
+  },
+  "homepage": "https://github.com/zolaqq121/static-server#readme"
 }
